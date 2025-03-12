@@ -19,7 +19,6 @@ O RecomendaçãoMúsicas é um sistema desenvolvido para fornecer recomendaçõe
 
 - Recomendações personalizadas de músicas com base no histórico do usuário.
 - Interface intuitiva para navegação e descoberta de novas músicas.
-- Integração com plataformas de streaming para reprodução direta.
 
 ## Tecnologias Utilizadas
 
